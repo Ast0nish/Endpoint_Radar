@@ -1,4 +1,4 @@
-# 🔎 Endpoint Radar – PowerShell
+# 🔎 Endpoint Radar
 
 **Desenvolvido por Vinícius Pimentel**
 
