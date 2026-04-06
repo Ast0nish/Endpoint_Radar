@@ -1,4 +1,5 @@
 🔎 Endpoint Radar – PowerShell
+
 Desenvolvido por Vinícius Pimentel
 
 Uma ferramenta em PowerShell com interface gráfica (GUI), criada para analisar, monitorar e gerenciar aplicações, processos e extensões de navegador em máquinas Windows, localmente ou remotamente. Desenvolvida para profissionais de TI, Helpdesk e Security Operations que precisam de uma visão rápida e confiável do ambiente de trabalho de usuários.
