@@ -6,15 +6,15 @@ Uma ferramenta em PowerShell com interface gráfica (GUI), criada para analisar,
 
 ## 📌 Funcionalidades
 
--✔ Listar aplicativos instalados na máquina
--✔ Listar pastas do usuário (C:/, AppData Local e Roaming)
--✔ Listar processos ativos e identificar caminhos suspeitos
--✔ Verificar extensões do Google Chrome (permitidas ou proibidas)
--✔ Execução local automática se a máquina for a mesma do analista
--✔ Execução remota via PowerShell Remoting (WinRM), com suporte a credenciais
--✔ Interface gráfica moderna, limpa e intuitiva
--✔ Saídas coloridas e organizadas para melhor legibilidade
--✔ Alertas de erros e status em tempo real
+- Listar aplicativos instalados na máquina
+- Listar pastas do usuário (C:/, AppData Local e Roaming)
+- Listar processos ativos e identificar caminhos suspeitos
+- Verificar extensões do Google Chrome (permitidas ou proibidas)
+- Execução local automática se a máquina for a mesma do analista
+- Execução remota via PowerShell Remoting (WinRM), com suporte a credenciais
+- Interface gráfica moderna, limpa e intuitiva
+- Saídas coloridas e organizadas para melhor legibilidade
+- Alertas de erros e status em tempo real
 
 ---
 
